@@ -46,7 +46,7 @@ int main(int argc, char* argv[]) {
   const int caloriesPerCookie = 160;
 
   cout << "Welcome to my Oreo Calculator:)\n" << endl;
-  cout << "How many Oreos have you eaten?(Whole numbers only pls)\n1-" << endl;
+  cout << "How many Oreos have you eaten?(Whole numbers only pls)\n" << endl;
 
   cin >> numCookies;
 
