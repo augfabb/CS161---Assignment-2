@@ -7,14 +7,14 @@
 
 // ------------- ZYBOOKS SCORES -------------
 // Chapter ✅: 2
-// Participation ✅: 100
-// Challenge ✅: 100
+// Participation ✅: 70 //did not fully complete because it felt redundant
+// Challenge ✅: 70
 // Labs ✅: 100
 
 
 // ------------- DISCORD POSTS -------------
 // https://discord.com/invite/URYKKf8YHm
-// Count ✅:
+// Count ✅:1
 // Links (Optional): 
 
 
